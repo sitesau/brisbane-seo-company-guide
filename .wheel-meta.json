@@ -1,0 +1,16 @@
+{
+  "wheel_id": 56,
+  "slug": "tscb-nl-150",
+  "project": "brisbane-seo-company-guide",
+  "parent_t1_ref": "tscb-nl-001",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "brisbane seo company guide",
+  "intended_url": "https://brisbane-seo-company-guide.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://brisbane-seo-company-guide.netlify.app",
+      "anchor": "seo company brisbane",
+      "rel": "follow"
+    }
+  ]
+}
